@@ -1,0 +1,375 @@
+/* review.css */
+.max-w-85rem {
+  max-width: 85rem;
+}
+
+.px-4 {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.py-10 {
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
+}
+
+.sm\:px-6 {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
+.lg\:px-8 {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+.lg\:py-14 {
+  padding-top: 3.5rem;
+  padding-bottom: 3.5rem;
+}
+
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.max-w-2xl {
+  max-width: 42rem;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-xl {
+  font-size: 1.25rem;
+}
+
+.text-gray-800 {
+  color: #2d3748;
+}
+
+.font-bold {
+  font-weight: 700;
+}
+
+.text-3xl {
+  font-size: 1.875rem;
+}
+
+.dark\:text-white {
+  color: #fff;
+}
+
+.mt-5 {
+  margin-top: 1.25rem;
+}
+
+.p-4 {
+  padding: 1rem;
+}
+
+.relative {
+  position: relative;
+}
+
+.z-10 {
+  z-index: 10;
+}
+
+.card {
+  background-color: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 0.75rem;
+  padding: 2rem;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+}
+
+.mb-4 {
+  margin-bottom: 1rem;
+}
+
+.sm\:mb-8 {
+  margin-bottom: 2rem;
+}
+
+.block {
+  display: block;
+}
+
+/* review.css */
+/* ... (Previous styles) ... */
+
+.mb-8 {
+  margin-bottom: 2rem;
+}
+
+.dark\:bg-gray-800 {
+  background-color: #2d3748;
+}
+
+.dark\:border-gray-700 {
+  border-color: #4a5568;
+}
+
+.py-3 {
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+}
+
+.sm\:p-4 {
+  padding: 1rem;
+}
+
+.border {
+  border-width: 1px;
+}
+
+.rounded-xl {
+  border-radius: 0.75rem;
+}
+
+.focus\:border-blue-500:focus {
+  border-color: #3b82f6;
+  outline: 0;
+  box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.5);
+}
+
+.focus\:ring-blue-500:focus {
+  box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.5);
+}
+
+.focus\:ring-offset-2:focus {
+  outline: 0;
+  box-shadow: 0 0 0 2px #fff, 0 0 0 5px rgba(59, 130, 246, 0.5);
+}
+
+.transition-all {
+  transition-property: all;
+  transition-timing-function: ease;
+  transition-duration: 0.3s;
+}
+
+.dark\:focus\:ring-offset-gray-800:focus {
+  box-shadow: 0 0 0 2px #000, 0 0 0 5px rgba(0, 0, 0, 0.5);
+}
+
+/* Styles for the form container */
+.mt-6 {
+  margin-top: 1.5rem;
+}
+
+.grid {
+  display: grid;
+}
+
+/* Styles for the submit button */
+.py-3 {
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+}
+
+.inline-flex {
+  display: inline-flex;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.gap-2 {
+  gap: 0.5rem;
+}
+
+.border-transparent {
+  border-color: transparent;
+}
+
+.font-semibold {
+  font-weight: 600;
+}
+
+.bg-blue-500 {
+  background-color: #3b82f6;
+}
+
+.text-white {
+  color: #ffffff;
+}
+
+.hover\:bg-blue-600:hover {
+  background-color: #2563eb;
+}
+
+.focus\:outline-none:focus {
+  outline: 0;
+}
+
+.focus\:ring-2:focus {
+  box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.5);
+}
+
+.focus\:ring-offset-2:focus {
+  outline: 0;
+  box-shadow: 0 0 0 2px #fff, 0 0 0 5px rgba(59, 130, 246, 0.5);
+}
+
+.dark\:focus\:ring-offset-gray-800:focus {
+  box-shadow: 0 0 0 2px #000, 0 0 0 5px rgba(0, 0, 0, 0.5);
+}
+
+.transition-all {
+  transition-property: all;
+  transition-timing-function: ease;
+  transition-duration: 0.3s;
+}
+
+.dark\:focus\:ring-offset-gray-800:focus {
+  box-shadow: 0 0 0 2px #000, 0 0 0 5px rgba(0, 0, 0, 0.5);
+}
+
+/* Styles for the notification */
+.text-green-500 {
+  color: #48bb78;
+}
+
+.mb-4 {
+  margin-bottom: 1rem;
+}
+
+/* Styles for the slider container */
+.mt-8 {
+  margin-top: 2rem;
+}
+
+.text-neutral-300 {
+  color: #a0aec0;
+}
+
+.text-neutral-700 {
+  color: #4a5568;
+}
+
+.text-neutral-500 {
+  color: #6b7280;
+}
+
+.text-neutral-300 {
+  color: #d1d5db;
+}
+
+/* Styles for the slider arrows */
+.absolute {
+  position: absolute;
+}
+
+.bottom-0 {
+  bottom: 0;
+}
+
+.left-0 {
+  left: 0;
+}
+
+.right-0 {
+  right: 0;
+}
+
+.top-0 {
+  top: 0;
+}
+
+.z-[1] {
+  z-index: 1;
+}
+
+.flex {
+  display: flex;
+}
+
+.w-[15%] {
+  width: 15%;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.border-0 {
+  border-width: 0;
+}
+
+.bg-none {
+  background: none;
+}
+
+.p-0 {
+  padding: 0;
+}
+
+.text-black {
+  color: #000000;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.opacity-50 {
+  opacity: 0.5;
+}
+
+.transition-opacity {
+  transition-property: opacity;
+  transition-timing-function: cubic-bezier(0.25, 0.1, 0.25, 1);
+  transition-duration: 0.15s;
+}
+
+.hover\:text-black:hover {
+  color: #000000;
+}
+
+.hover\:no-underline:hover {
+  text-decoration: none;
+}
+
+.hover\:opacity-90:hover {
+  opacity: 0.9;
+}
+
+.hover\:outline-none:hover {
+  outline: 0;
+}
+
+.focus\:text-black:focus {
+  color: #000000;
+}
+
+.focus\:no-underline:focus {
+  text-decoration: none;
+}
+
+.focus\:opacity-90:focus {
+  opacity: 0.9;
+}
+
+.focus\:outline-none:focus {
+  outline: 0;
+}
+
+.motion-reduce\:transition-none {
+  transition: none;
+}
+
+
+.mo{
+  color: #2d3748; 
+}
